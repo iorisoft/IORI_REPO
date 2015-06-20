@@ -1,0 +1,71 @@
+#contenedor{  
+		height: 600px;
+		width: 1200px;
+        background-color:#F4ABF2;  
+        border:2px solid #FF0000;  
+}  
+#cabecera{  
+        background-color:#E5BC7A;  
+        height:20%;  
+}  
+#menu{  
+        height:10%;  
+        background-color:#C8CACC;  
+}  
+#izquierda{  
+        height:50%;  
+        background-color:#FF0000;  
+        float:left;  
+        width:10%;  
+}  
+#centro{  
+        height:50%;  
+        background-color:#0000FF;  
+        float:left;  
+        width:30%;  
+         padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+}  
+#derecha{  
+        height:50%;  
+        background-color:#DF01D7;  
+        float:right;  
+        width:60%;  
+}  
+#pie{  
+        height:20%;  
+        background-color:#D3D1C1;  
+        clear:both;  
+}  
+
+#boton_foto{
+  background-image:url(iconos/camarita.png);
+  background-repeat:no-repeat;
+  height:100px;
+  width:100px;
+  background-position:center;
+}
+
+#boton_subir{
+  background-image:url(iconos/subir.png);
+  background-repeat:no-repeat;
+  height:100px;
+  width:100px;
+  background-position:center;
+}
+#boton_confi{
+  background-image:url(iconos/confi.png);
+  background-repeat:no-repeat;
+  height:100px;
+  width:100px;
+  background-position:center;
+}
+#boton_reset{
+  background-image:url(iconos/reset.png);
+  background-repeat:no-repeat;
+  height:100px;
+  width:100px;
+  background-position:center;
+}
